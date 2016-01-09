@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ko Minkyu</title>
+    <description></description>
+    <link>http://minkyu.me/</link>
+    <atom:link href="http://minkyu.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 09 Jan 2016 18:13:30 +0900</pubDate>
+    <lastBuildDate>Sat, 09 Jan 2016 18:13:30 +0900</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>블로그 첫 글</title>
+        <description>&lt;p&gt;항상 블로그를 처음 만들면 누구나 그렇듯
+첫 글을 이렇게!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Jan 2016 03:06:58 +0900</pubDate>
+        <link>http://minkyu.me/--</link>
+        <guid isPermaLink="true">http://minkyu.me/--</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
