@@ -6,15 +6,15 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Ko Minkyu
+title:            ''
 tagline:          ''
-description:      'Android Developer<br>Living in Seoul<br>'
+description:      'Android Developer<br>'
 url:              http://kominkyu.github.io
 baseurl:          /
 
 author:
-  name:           'Minkyu Ko'
-  url:            https://facebook.com/risedrag
+  name:           ''
+  url:            ''
 
 paginate:         3
 
